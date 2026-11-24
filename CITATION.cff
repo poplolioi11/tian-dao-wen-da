@@ -1,0 +1,37 @@
+{
+  "cff-version": "1.2.0",
+  "type": "dataset",
+  "title": "天道問答（DRS 428685358） / Tian dao wen da: Transcription Dataset",
+  "message": "If you use this dataset, cite this version and the source copy.",
+  "version": "0.2.0",
+  "date-released": "2026-11-24",
+  "authors": [
+    {
+      "family-names": "Chu",
+      "given-names": "Chen-Yu",
+      "orcid": "https://orcid.org/0009-0003-9738-6914",
+      "website": "https://github.com/poplolioi11"
+    }
+  ],
+  "url": "https://github.com/poplolioi11/tian-dao-wen-da/releases/tag/v0.2.0",
+  "repository-code": "https://github.com/poplolioi11/tian-dao-wen-da",
+  "abstract": "Tian dao wen da is a one-volume late Qing Christian catechism in vernacular Mandarin attributed to Xiu Huayang. The source copy is dated 1889 (Guangxu 15), and the title leaf identifies Jinan Prefecture, Shandong, as the place where the printing blocks were held. The catechism opens by asking where human beings come from and uses a sequence of questions beginning “Today I…” to guide daily self-examination. It also discusses prayer, the meaning of the Ten Commandments, forgiveness, blessings and salvation. Its question-and-answer format offers material for studying local publishing, Christian missions and Chinese religious vocabulary in late Qing Jinan. This dataset uses 22 fixed images from Harvard-Yenching Library DRS 428685358. The main text is transcribed from 14 pages. The AI-reviewed JSON, TXT and TEI transcription records 31 unresolved comparison items from the primary review. Supplemental image review resolved 3 of those items, leaving 28 open. Full human collation is outstanding.",
+  "keywords": [
+    "官話教理問答",
+    "Mandarin catechisms",
+    "晚清基督教",
+    "Late Qing Christianity",
+    "濟南木刻",
+    "Jinan woodblock printing",
+    "秀華陽",
+    "Xiu Huayang",
+    "每日自省",
+    "Daily self-examination",
+    "禱告",
+    "Prayer",
+    "十誡",
+    "Ten Commandments",
+    "免罪與救恩",
+    "Forgiveness and salvation"
+  ]
+}
