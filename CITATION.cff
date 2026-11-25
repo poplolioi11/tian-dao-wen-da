@@ -33,5 +33,13 @@
     "Ten Commandments",
     "免罪與救恩",
     "Forgiveness and salvation"
+  ],
+  "doi": "10.5281/zenodo.24531798",
+  "identifiers": [
+    {
+      "type": "doi",
+      "value": "10.5281/zenodo.24531797",
+      "description": "Zenodo series DOI for all versions"
+    }
   ]
 }
